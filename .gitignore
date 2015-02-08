@@ -29,9 +29,9 @@
 
 # Misc
 *.lcf
-*.lcs
 *.txt
+
+# C::B files
 *.layout
 *.cbp
-*.bin
 *.depend
