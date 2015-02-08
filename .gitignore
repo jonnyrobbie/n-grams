@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+# Misc
+*.lcf
+*.lcs
+*.txt
+*.layout
+*.cbp
+*.bin
+*.depend
